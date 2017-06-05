@@ -46,7 +46,7 @@
 </p>
       <nav>
 	<h2>Run benchmark:</h2>
-        <p><pre>curl -Lso- k0nsl.org/bag/bench/bench.sh|bash</pre></p>
+        <p><pre>curl -Lso- bad.goy.su/k0nsl-bench|bash</pre></p>
 	<h2>Example output:</h2>
 <pre style="font-family: 'Press Start 2P', monospace; font-size:10px">
 <?php
