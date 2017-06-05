@@ -1,0 +1,28 @@
+General Information
+
+CPU :  Intel(R) Xeon(R) CPU           X5670  @ 2.93GHz
+CPU Cores : 2
+CPU frequency per core :  2933.520 MHz
+Memory : 2008 MB
+Swap Space : 2046 MB
+Uptime : 134 days, 17 hours, 33 minutes
+Kernel : 3.16.0-4-amd64
+
+Network Benchmar
+
+Download Speed: BuyVM (US): 2.42MB/s 
+Download Speed: DigitalOcean (US): 53.3MB/s 
+Download Speed: RamNode (US): 39.5MB/s 
+Download Speed: Incero (US): 107MB/s 
+Download Speed: Dacentec (USA): 35.2MB/s 
+Download Speed: HostHatch (EU): 11.7MB/s 
+Download Speed: DigitalOcean (EU): 18.4MB/s 
+Download Speed: RamNode (EU): 14.3MB/s 
+Download Speed: BuyVM (EU): 9.48MB/s 
+Download Speed: YourServer (EU): 3.22MB/s
+
+Disk Benchmark
+
+I/O Performance [1]:  772 MB/s
+I/O Performance [2]:  827 MB/s
+I/O Performance [3]:  933 MB/s
