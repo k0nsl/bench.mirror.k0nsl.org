@@ -49,7 +49,12 @@
         <p><pre>curl -Lso- k0nsl.org/bag/bench/bench.sh|bash</pre></p>
 	<h2>Example output:</h2>
 <pre style="font-family: 'Press Start 2P', monospace; font-size:10px">
-<?php include 'bench-stats.out';?>
+<?php
+if (file_exists(__DIR__ . '/bench-stats.out'))
+{
+    include __DIR__ . '/bench-stats.out';
+}
+?>
 </pre>
 
       </nav>
