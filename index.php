@@ -113,6 +113,7 @@ if (file_exists(__DIR__ . '/bench-stats.out'))
     s.parentNode.insertBefore(wf, s);
   })(); </script>
 
+<!-- Stats -->
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(['trackPageView']);
@@ -120,12 +121,13 @@ if (file_exists(__DIR__ . '/bench-stats.out'))
   (function() {
     var u="//s.k0nsl.org/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 1]);
+    _paq.push(['setSiteId', '14']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<noscript><p><img src="//s.k0nsl.org/piwik.php?idsite=1" style="border:0;" alt=""/></p></noscript>
+<noscript><p><img src="//s.k0nsl.org/piwik.php?idsite=14&rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Stats -->
 
 <a class="github-fork-ribbon" href="https://github.com/k0nsl/k0nsl-misc/blob/master/bench.sh" title="Fork me on GitHub">Fork me on GitHub</a>
 
